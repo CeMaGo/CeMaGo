@@ -1,9 +1,6 @@
 
 
-# Hey there, code enthusiasts! ✨
+# 2024.. resolutions to come soon... : "Senior" here we go.
 
- 🤓 I'm not here to flaunt flashy 💥 websites or perfect flex  🦾  boxes (*OFC they are nice! & Who doesn't like responsive webdesign ?!!). My drive is all about getting hands-on practice, building the same thing in different ways, and diving deep into the "why" behind my code. I'm on a quest to unravel the hidden costs, optimize memory usage, and ensure that my programming doesn't hinder technological progress but propels it forward.
+after being Cut from the Web for the majority of December23, I'm excited for the next 366 days of exploring new Ideas, concepts and Code! ✨
 
-🌈 My goal? Becoming a senior engineer, not just for the title, but as that unshakable foundation of expertise – someone who's navigated challenges, conquered wild bugs, and achieved a profound understanding.
-
-Let's connect, collaborate, and code the future together! 💻 🦄 🦋 🦙
